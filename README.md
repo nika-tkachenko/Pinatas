@@ -15,3 +15,7 @@ The program works as follows:
 
 ### Prerequisites
 - C++ compiler (supporting C++11 or higher)
+
+## Approximate time spent on development
+
+4-5 hours
